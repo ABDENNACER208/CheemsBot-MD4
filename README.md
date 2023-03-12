@@ -1,6 +1,6 @@
 
 
-<h1 align="center">YOCHI BOT 𝗩4ꫂ<br></h1>
+<h1 align="center">ᗷOT ᗴᒪᘜᗩᘔᗩᖇ<br></h1>
 <p align="center">
 <img src="https://media.tenor.com/images/e15cb1453a09e25bab41116d930329bf/tenor.gif" alt="animated" width="540" height="280" />
 </p>
@@ -80,7 +80,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ## `Requirements`
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
+* [FFmpeg](https://github.com/BtbN/-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
 * [Libwebp](https://developers.google.com/speed/webp/download)
 * Any text editor
 ## `Clone Repo & Installation dependencies`
